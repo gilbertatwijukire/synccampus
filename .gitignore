@@ -1,0 +1,13 @@
+# Python environments and generated files
+backend/.venv/
+backend/.uv-cache/
+backend/.uv-python/
+backend/**/__pycache__/
+backend/.pytest_cache/
+backend/*.db
+backend/.env
+
+# Frontend build output and local environment
+frontend/dist/
+frontend/.env
+frontend/.vercel/

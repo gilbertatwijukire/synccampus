@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Submit a concern – Saagi SyncCampus</title><meta name="theme-color" content="#7A1426">
+<link rel="manifest" href="/manifest.json"><link rel="icon" href="/icon.svg"><link rel="stylesheet" href="/app.css">
+</head><body>
+<div id="hdr"></div>
+<main class="page">
+  <h1>Submit a concern</h1><p class="lead">No account needed. You will receive a reference number and a private access code to follow progress.</p>
+  <div class="notice"><b>Before you write:</b> leave out names, faces and ID numbers you want kept private. Details in your text can still identify you.</div>
+  <section class="card">
+  <form id="submitForm">
+    <div class="row"><div><label>Campus</label><select name="campus"><option>Main Campus</option><option>City Campus</option></select></div>
+      <div><label>Category *</label><select name="category_id" id="category" required></select></div></div>
+    <label>Where did it happen? (building, room, office)</label><input name="location" maxlength="120" placeholder="e.g. Block B library">
+    <label>Title *</label><input name="title" required minlength="5" maxlength="200" placeholder="Short summary">
+    <label>Describe the concern *</label><textarea name="description" required minlength="10" placeholder="What happened, since when, and who is affected?"></textarea>
+    <div class="row"><div><label>How urgent is it?</label><select name="urgency"><option value="1">Low</option><option value="2" selected>Normal</option><option value="3">High</option><option value="4">Critical</option></select></div>
+      <div><label>About how many students are affected?</label><input type="number" name="students_affected" min="1" value="1"></div></div>
+    <label class="check"><input type="checkbox" name="safety_flag"> This is a safety risk</label>
+    <label class="check"><input type="checkbox" name="is_public" id="isPublic"> Show this concern on the public list (title and description only)</label>
+    <p class="muted hide" id="sensNote">This category is always handled privately.</p>
+    <button class="btn" type="submit">Submit concern</button><div class="err" id="submitErr"></div>
+  </form>
+  <div id="result" class="hide"></div>
+  </section>
+</main>
+<div id="ftr"></div>
+<script src="/config.js"></script><script src="/common.js"></script><script src="/submit.js"></script>
+</body></html>

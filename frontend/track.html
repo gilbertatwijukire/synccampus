@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Track a concern – Saagi SyncCampus</title><meta name="theme-color" content="#7A1426">
+<link rel="manifest" href="/manifest.json"><link rel="icon" href="/icon.svg"><link rel="stylesheet" href="/app.css">
+</head><body>
+<div id="hdr"></div>
+<main class="page">
+  <h1>Track your concern</h1><p class="lead">Enter the reference and private access code you received when you submitted.</p>
+  <section class="card">
+    <form id="trackForm"><div class="row"><div><label>Reference</label><input name="reference" placeholder="SC-XXXXXX" required></div>
+      <div><label>Access code</label><input name="access_code" placeholder="XXXX-XXXX-XXXX" required autocomplete="off"></div></div>
+      <button class="btn" type="submit" style="margin-top:12px">Open my concern</button><div class="err" id="trackErr"></div></form>
+    <div id="trackView"></div>
+  </section>
+  <div class="notice"><b>Lost your code?</b> It is stored only as a one-way hash, so nobody can recover it. Submit the concern again and mention the earlier report.<br><b>Never share your code.</b> Guild leaders will never ask for it by phone, WhatsApp, SMS or email.</div>
+</main>
+<div id="ftr"></div>
+<script src="/config.js"></script><script src="/common.js"></script><script src="/track.js"></script>
+</body></html>

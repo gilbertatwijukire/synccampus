@@ -1,0 +1,163 @@
+[
+    {
+        "id":  11,
+        "name":  "Patricia Rwotber",
+        "position":  "Guild President",
+        "photo":  "/assets/cabinet/mj8C6bpM35DsiwuzWwVFdVhNbjo2NbUh8P8MfEOV.jpg",
+        "responsibilities":  "Leads the Guild Cabinet and is the main voice of all ISBAT students, at both Main Campus and City Campus.\r\n\r\n• Represents students before university management and speaks for them at official meetings.\r\n• Leads and coordinates the work of every minister and Guild Representative Councillor.\r\n• Makes sure every concern raised on YOUR VOICE is received, assigned and answered on time.\r\n• Confirms Cabinet members on the platform, and approves decisions such as marking a concern \"unable to resolve\".\r\n• Reports back to students openly on what the Guild has done and what is still pending."
+    },
+    {
+        "id":  19,
+        "name":  "Tendo Sarah",
+        "position":  "Vice Guild President",
+        "photo":  "/assets/cabinet/OjwTIfn7AdeEe3zGpuPxEh0nOlfpF9B0QkZkSgWw.jpg",
+        "responsibilities":  null
+    },
+    {
+        "id":  20,
+        "name":  "Prosper Ephraim",
+        "position":  "Guild speaker/GRC Computer Science",
+        "photo":  "/assets/cabinet/e6wEBfU4DXBaESE9w5e9nVsSCVdJ2FQfBbZQyCl7.jpg",
+        "responsibilities":  null
+    },
+    {
+        "id":  14,
+        "name":  "Naiga Hawah",
+        "position":  "Deputy Speaker /GRC Software",
+        "photo":  "/assets/cabinet/A1bokKzuWbyVt6q5uWMzMGK51b9DRBnWtzXClxLg.jpg",
+        "responsibilities":  null
+    },
+    {
+        "id":  16,
+        "name":  "Bablo Muammar Omar",
+        "position":  "General Secretary",
+        "photo":  "/assets/cabinet/QDYuLhmS5DSrEhREDgupEjApxPIdJRBMhlpuAK9f.jpg",
+        "responsibilities":  null
+    },
+    {
+        "id":  17,
+        "name":  "Ssemakula Arthur",
+        "position":  "Minister of internal affairs",
+        "photo":  "/assets/cabinet/JR36of1ZXCdNMDobhtB29IP1eUFWnX2dRPbtmPW5.jpg",
+        "responsibilities":  null
+    },
+    {
+        "id":  15,
+        "name":  "Mpoza Jonah",
+        "position":  "Minister of Gender and Ethics",
+        "photo":  "/assets/cabinet/jCrpThibzOT38MDvVDC7dPgX1WbQGQOifLvt2Tab.jpg",
+        "responsibilities":  null
+    },
+    {
+        "id":  18,
+        "name":  "Musasizi Simon Peter",
+        "position":  "Minister of publicity",
+        "photo":  "/assets/cabinet/ABNK9TxvlUVNVFlDqj3FsMAdlrmBHJTcRktWCeRL.jpg",
+        "responsibilities":  null
+    },
+    {
+        "id":  22,
+        "name":  "Namanda jackline",
+        "position":  "Minister of Education",
+        "photo":  "/assets/cabinet/Scqt7jt32pymHVAbexXgG3x6B9hC6CC6hpviOoBI.jpg",
+        "responsibilities":  null
+    },
+    {
+        "id":  23,
+        "name":  "Jessica Madaan",
+        "position":  "Minister of culture",
+        "photo":  "/assets/cabinet/xTYXT0goVidGnf5fVik2FmtEBXvcKHa4O5rJ27CZ.jpg",
+        "responsibilities":  null
+    },
+    {
+        "id":  24,
+        "name":  "Nalutaaya Karen Maria",
+        "position":  "Minister of health female",
+        "photo":  "/assets/cabinet/EmOgUalWB0dv2v0Abf2w4sy4ZO64MypRMhAL8IfJ.jpg",
+        "responsibilities":  null
+    },
+    {
+        "id":  26,
+        "name":  "Daniella Bakaluba",
+        "position":  "Minister of security",
+        "photo":  "/assets/cabinet/Pp5hwLLe9VW4tyyDwyriS2uQyp4orxP2kEFTMOls.jpg",
+        "responsibilities":  null
+    },
+    {
+        "id":  28,
+        "name":  "Nuweampiire Anati",
+        "position":  "Minister of publicity (City Campus)",
+        "photo":  "/assets/cabinet/TxXd6CJjd2nEm1EGvLYqXCfFa7XDZ5G9VB9uQNgo.jpg",
+        "responsibilities":  null
+    },
+    {
+        "id":  29,
+        "name":  "Amanda Jordan",
+        "position":  "Minister of social affairs and mobilization",
+        "photo":  "/assets/cabinet/g9PKNgiPYSv1dmUkfgHRTYPTXLNlJNyinIP7XeUu.jpg",
+        "responsibilities":  null
+    },
+    {
+        "id":  31,
+        "name":  "Nabasumba daphine",
+        "position":  "Minister of sports",
+        "photo":  "/assets/cabinet/6VibmXuzAmxsembSE1cycnVggKrU62uzoYe2kmff.jpg",
+        "responsibilities":  null
+    },
+    {
+        "id":  33,
+        "name":  "Kabali Joel",
+        "position":  "Minister of ICT",
+        "photo":  null,
+        "responsibilities":  null
+    },
+    {
+        "id":  32,
+        "name":  "Okumu Grace Mugisa",
+        "position":  "Minister of Religious affairs",
+        "photo":  "/assets/cabinet/5X8DWxoZWddEGyNQ6WMBZpzqivjCfjcTIZkyhCSP.jpg",
+        "responsibilities":  null
+    },
+    {
+        "id":  34,
+        "name":  "Lakony Emmanuel",
+        "position":  "Minister of Internal Affairs City Campus",
+        "photo":  "/assets/cabinet/7ZGNn2n19Ro2RuJQz3CczrrqYb94w6F6emkYhFMe.jpg",
+        "responsibilities":  null
+    },
+    {
+        "id":  13,
+        "name":  "Bilal Bakole Ismail",
+        "position":  "GRC-BMIT",
+        "photo":  "/assets/cabinet/3ti32cfFb7xXFeFqGda1pdP2aGMywb0XXs9eGTPq.jpg",
+        "responsibilities":  null
+    },
+    {
+        "id":  12,
+        "name":  "Aber Daisy Desire",
+        "position":  "GRC-BMLT",
+        "photo":  "/assets/cabinet/u0Sw33fsObCS7PY4L8zF5o95A5DH1wmHHRyR3pDU.jpg",
+        "responsibilities":  null
+    },
+    {
+        "id":  25,
+        "name":  "Ochen Benson Aurien",
+        "position":  "GRC - Economics",
+        "photo":  "/assets/cabinet/zj9XXtoFUrLDQQqkFsqEQZ5nCN0OwXh42ug9ea9Y.jpg",
+        "responsibilities":  null
+    },
+    {
+        "id":  27,
+        "name":  "Komugisha Esther",
+        "position":  "GRC BBA/IB",
+        "photo":  "/assets/cabinet/trjQiuvGGmZcx5vB24SABIg5AH66SIEGl196ii3y.jpg",
+        "responsibilities":  null
+    },
+    {
+        "id":  30,
+        "name":  "Alvin",
+        "position":  "GRC HEC",
+        "photo":  "/assets/cabinet/PBywpjVqaLh95jWug4QuSdY1p7GvhR7PrpQ7yz49.jpg",
+        "responsibilities":  null
+    }
+]

@@ -1,0 +1,3 @@
+{ "name": "Saagi SyncCampus", "short_name": "SyncCampus", "start_url": "/", "display": "standalone",
+  "background_color": "#FBF8F5", "theme_color": "#7A1426",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }] }
