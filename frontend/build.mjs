@@ -7,7 +7,7 @@ const output = path.join(root, "dist");
 const apiBase = (process.env.SAAGI_API_BASE || "").trim().replace(/\/$/, "");
 
 if (apiBase && !/^https:\/\//i.test(apiBase)) {
-  throw new Error("SAAGI_API_BASE must be an HTTPS URL, such as https://your-api.onrender.com");
+  throw new Error("SAAGI_API_BASE must be an HTTPS URL, such as https://your-api.up.railway.app");
 }
 
 await mkdir(output, { recursive: true });
