@@ -11,7 +11,13 @@
   <section class="card">
   <form id="submitForm">
     <div class="row"><div><label>Campus</label><select name="campus"><option>Main Campus</option><option>City Campus</option></select></div>
-      <div><label>Category *</label><select name="category_id" id="category"></select><option value="1">ICT</option>></select></div></div>
+      <div><label>Category *</label><select name="category_id" id="category">
+        <option value="1">ICT</option>
+        <option value="2">Academics</option>
+        <option value="3">Facilities</option>
+        <option value="4">Student Services</option>
+        <option value="5">Health & Safety</option>
+      </select></div></div>
     <label>Where did it happen? (building, room, office)</label><input name="location" maxlength="120" placeholder="e.g. Block B library">
     <label>Title *</label><input name="title" required minlength="5" maxlength="200" placeholder="Short summary">
     <label>Describe the concern *</label><textarea name="description" required minlength="10" placeholder="What happened, since when, and who is affected?"></textarea>
